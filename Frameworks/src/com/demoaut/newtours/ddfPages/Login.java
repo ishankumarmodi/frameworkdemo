@@ -26,4 +26,7 @@ public class Login {
 		submit.click();
 	}
 	
+	public void day() {
+		System.out.println("Today is Friday");
+	}
 }
